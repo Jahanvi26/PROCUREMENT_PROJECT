@@ -1,1 +1,1 @@
-# PROCUREMENT_PROJECT
+Undertook the role of a Business Analyst to enhance the Procurement Application, focusing on optimizing the process of acquiring office supplies from third-party vendors. Developed comprehensive wireframes, elicited user stories, and defined detailed acceptance criteria to guide the project's implementation. By aligning the application with user needs, I successfully streamlined the purchasing workflow, fostering operational efficiency and strengthening vendor relationships.
